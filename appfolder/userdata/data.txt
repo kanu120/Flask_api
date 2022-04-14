@@ -1,0 +1,19 @@
+username:kanu
+password:%%%
+
+username:arzoo
+password:123
+
+
+username:kanu
+password:111
+Email id:priya@gmail.com
+
+
+
+username:RAM11
+password:111
+Email id:ram@gmail.com
+username:radhe11
+password:111
+Email id:radhe.sham@gamil.com
